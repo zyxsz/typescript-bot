@@ -1,11 +1,11 @@
 # Typescript bot **Template**
 
-- **Dependecies:**
+**Dependecies:**
 - discord.js v12+
 - dotenv
 - typeorm
 
-- **Dev dependecies**
+**Dev dependecies**
 - nodemon
 - ts-node
 - typescript
